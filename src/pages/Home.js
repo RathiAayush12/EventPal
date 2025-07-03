@@ -51,6 +51,10 @@ const Home = () => {
           <option value="workshop">Workshop</option>
           <option value="webinar">Webinar</option>
           <option value="meetup">Meetup</option>
+          <option value="meetup">Meetup</option>
+          <option value="seminar">Seminar</option>
+          <option value="course">Course</option>
+          <option value="conference">Conference</option>
         </select>
 
         <select
